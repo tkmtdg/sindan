@@ -1,0 +1,45 @@
+questions:
+  - question: 朝食は摂りますか？
+    image: food_toast.png
+    choices:
+      - answer: 毎日
+        score: 0
+      - answer: ほぼ毎日
+        score: 10
+      - answer: たまに
+        score: 20
+      - answer: 食べない
+        score: 30
+  - question: 間食はしますか？
+    image: kids_youchien_oyatsu.png
+    choices:
+      - answer: 全くしない
+        score: 0
+      - answer: ほとんどしない
+        score: 10
+      - answer: たまに
+        score: 20
+      - answer: 毎日
+        score: 30
+  - question: 夕食は何時に食べますか？
+    image: syokuji_family_tanoshisou.png
+    choices:
+      - answer: 19時まで
+        score: 0
+      - answer: 20時まで
+        score: 10
+      - answer: 21時まで
+        score: 20
+      - answer: 22時以降
+        score: 30
+  - question: 運動はしますか？
+    image: gym_aerobike_people.png
+    choices:
+      - answer: 毎日
+        score: 0
+      - answer: 数日おき
+        score: 10
+      - answer: １週間に１回
+        score: 20
+      - answer: しない
+        score: 30
